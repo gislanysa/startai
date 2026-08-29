@@ -8,7 +8,7 @@ Criação de uma plataforma de matchmaking que conecta startups nascentes do Por
 
 ## Stack
 - **Frontend:** React, Vite, TypeScript, Tailwind CSS, Axios.
-- **Backen:** Gleam, BEAM VM, árvore de supervisão OTP.
+- **Backend:** Gleam, BEAM VM, árvore de supervisão OTP.
 - **Database:** PostgreSQL.
 - **Orquestração:** Docker Compose.
 
