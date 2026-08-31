@@ -6,10 +6,12 @@
 
 ## O que é o projeto
 
-Criação de uma plataforma de matchmaking que conecta startups nascentes do
-Porto Digital (Recife/PE) a mentores e investidores anjo, um SaaS completo, com
-cadastro de startups por segmento, perfis de investidor e vínculo de membros
-por startup.
+Plataforma de matchmaking que conecta startups nascentes do Porto Digital (Recife/PE) a
+mentores e investidores anjo. O sistema permite cadastro de startups por segmento, perfis
+de mentor e investidor, vínculo de membros por startup, busca com filtros e registro de
+interesse entre as partes.
+
+O produto é entregue como SaaS.
 
 ## Stack
 
@@ -17,15 +19,6 @@ por startup.
 - **Backend:** Gleam, BEAM VM, árvore de supervisão OTP.
 - **Database:** PostgreSQL 18.
 - **Orquestração:** Docker Compose.
-
-## O que é o projeto
-
-Plataforma de matchmaking que conecta startups nascentes do Porto Digital (Recife/PE) a
-mentores e investidores anjo. O sistema permite cadastro de startups por segmento, perfis
-de mentor e investidor, vínculo de membros por startup, busca com filtros e registro de
-interesse entre as partes.
-
-O produto é entregue como SaaS.
 
 ### O que o MVP faz
 
@@ -42,8 +35,6 @@ O produto é entregue como SaaS.
 - Não há chat interno, notificação por e-mail ou upload de documentos.
 
 ---
-
-## Stack
 
 **Frontend**
 
@@ -81,12 +72,8 @@ então o acesso a dados é SQL escrito à mão e tipado pelo Squirrel.
 ---
 
 ## Arquitetura
+Em construção.
 
-O diagrama completo está em [`docs/arquitetura.mermaid`](docs/arquitetura.mermaid).
-Esse arquivo é a **fonte da verdade** — os PNGs distribuídos no Trello são exportações
-dele e podem estar desatualizados.
-
-Para visualizar sem instalar nada, cole o conteúdo em <https://mermaid.live>.
 
 ### Fluxo de uma requisição
 
@@ -244,11 +231,15 @@ Toda alteração em `main` passa por PR com pelo menos uma revisão de outro mem
 
 ## Equipe
 
-<!-- DECIDIR: preencher com os integrantes -->
+| Nome | Responsabilidade |
+| --- | --- |
+| [Bianca Guimarães](https://github.com/BiancagscCabral) | Desenvolvedora Front-end · Pesquisa e Melhoria Contínua |
+| [Eduardo Soares](https://github.com/edudxs) | Documentação Técnica · Gestão de Projeto (Trello, Docs & Apresentações) |
+| [Gislany Araujo](https://github.com/gislanysa) | Desenvolvedora Front-end · Owner do Repositório |
+| [João Marcos](https://github.com/jmtmds) | Desenvolvedor Front-end · Documentação Técnica |
+| [Pedro Ayres](https://tangled.org/kacaii.dev) | Desenvolvedor Back-end |
+| [Reideclildon Paulo](https://github.com/kiing12) | Desenvolvedor Back-end |
 
-| Nome | GitHub | Responsabilidade |
-| --- | --- | --- |
-| | | |
 
 ---
 
