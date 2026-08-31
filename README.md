@@ -81,12 +81,8 @@ então o acesso a dados é SQL escrito à mão e tipado pelo Squirrel.
 ---
 
 ## Arquitetura
+Em construção.
 
-O diagrama completo está em [`docs/arquitetura.mermaid`](docs/arquitetura.mermaid).
-Esse arquivo é a **fonte da verdade** os PNGs distribuídos no Trello são exportações
-dele e podem estar desatualizados.
-
-Para visualizar sem instalar nada, cole o conteúdo em <https://mermaid.live>.
 
 ### Fluxo de uma requisição
 
