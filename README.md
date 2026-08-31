@@ -36,8 +36,6 @@ O produto é entregue como SaaS.
 
 ---
 
-## Stack
-
 **Frontend**
 
 | Camada | Tecnologia |
