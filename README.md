@@ -6,10 +6,12 @@
 
 ## O que é o projeto
 
-Criação de uma plataforma de matchmaking que conecta startups nascentes do
-Porto Digital (Recife/PE) a mentores e investidores anjo, um SaaS completo, com
-cadastro de startups por segmento, perfis de investidor e vínculo de membros
-por startup.
+Plataforma de matchmaking que conecta startups nascentes do Porto Digital (Recife/PE) a
+mentores e investidores anjo. O sistema permite cadastro de startups por segmento, perfis
+de mentor e investidor, vínculo de membros por startup, busca com filtros e registro de
+interesse entre as partes.
+
+O produto é entregue como SaaS.
 
 ## Stack
 
@@ -17,15 +19,6 @@ por startup.
 - **Backend:** Gleam, BEAM VM, árvore de supervisão OTP.
 - **Database:** PostgreSQL 18.
 - **Orquestração:** Docker Compose.
-
-## O que é o projeto
-
-Plataforma de matchmaking que conecta startups nascentes do Porto Digital (Recife/PE) a
-mentores e investidores anjo. O sistema permite cadastro de startups por segmento, perfis
-de mentor e investidor, vínculo de membros por startup, busca com filtros e registro de
-interesse entre as partes.
-
-O produto é entregue como SaaS.
 
 ### O que o MVP faz
 
