@@ -239,7 +239,7 @@ Toda alteração em `main` passa por PR com pelo menos uma revisão de outro mem
 | [Eduardo Soares](https://github.com/edudxs) | Documentação Técnica · Gestão de Projeto (Trello, Docs & Apresentações) |
 | [Gislany Araujo](https://github.com/gislanysa) | Desenvolvedora Front-end · Owner do Repositório |
 | [João Marcos](https://github.com/jmtmds) | Desenvolvedor Front-end · Documentação Técnica |
-| [Pedro Ayres](https://github.com/Kacaii) | Desenvolvedor Back-end |
+| [Pedro Ayres](https://tangled.org/kacaii.dev) | Desenvolvedor Back-end |
 | [Reideclildon Paulo](https://github.com/kiing12) | Desenvolvedor Back-end |
 
 
