@@ -245,12 +245,14 @@ Toda alteração em `main` passa por PR com pelo menos uma revisão de outro mem
 ## Equipe
 
 | Nome | GitHub | Responsabilidade |
-|Bianca Guimarães | --- | Desenvolvedora Front-end · Pesquisa e Melhoria Contínua |
-|Eduardo Soares | --- | Documentação Técnica · Gestão de Projeto (Trello, Docs & Apresentações) |
-|Gislany Araujo | --- | Desenvolvedora Front-end · Owner do Repositório |
-|João Marcos | --- | Desenvolvedor Front-end · Documentação Técnica |
-|Pedro Ayres | --- | Desenvolvedor Back-end |
-|Reideclildon Paulo | --- | Desenvolvedor Back-end 
+| --- | --- | --- |
+| Bianca Guimarães | | Desenvolvedora Front-end · Pesquisa e Melhoria Contínua |
+| Eduardo Soares | | Documentação Técnica · Gestão de Projeto (Trello, Docs & Apresentações) |
+| Gislany Araujo | | Desenvolvedora Front-end · Owner do Repositório |
+| João Marcos | | Desenvolvedor Front-end · Documentação Técnica |
+| Pedro Ayres | | Desenvolvedor Back-end |
+| Reideclildon Paulo | | Desenvolvedor Back-end |
+
 
 ---
 
